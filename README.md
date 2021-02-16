@@ -1,2 +1,0 @@
-# laravelResistensia40
-ok
